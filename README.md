@@ -1,5 +1,7 @@
 # ekeia.github.io
 # sasa
+**이름**<br/>
+이원범<br/>
 **전공**<br/>
 소프트웨어학과<br/>
 **학번**<br/>
